@@ -1,4 +1,5 @@
 % Demo on non_i.i.d. Gaussian + impluse Noise
+
 clear,clc
 currentFolder = pwd;
 addpath(genpath(currentFolder))

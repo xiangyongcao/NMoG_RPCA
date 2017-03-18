@@ -1,4 +1,5 @@
 % Demo on non_i.i.d. Gaussian + stripe Noise
+
 clear,clc
 currentFolder = pwd;
 addpath(genpath(currentFolder))

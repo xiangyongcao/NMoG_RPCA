@@ -1,4 +1,5 @@
 % Demo on mixture Noise
+
 clear,clc
 currentFolder = pwd;
 addpath(genpath(currentFolder))
